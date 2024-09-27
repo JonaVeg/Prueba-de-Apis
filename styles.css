@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#usersContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.user {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
